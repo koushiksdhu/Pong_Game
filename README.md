@@ -12,8 +12,6 @@ This project is a Pong game built using Python and the Turtle library. It is a c
 
 4. Score Tracking: The game keeps track of the score for each player. A player scores a point when the opponent fails to hit the ball. The score is displayed on the screen, and the game ends when one player reaches the winning score.
 
-5. Sound Effects: The game includes sound effects for paddle hits and score updates, enhancing the gameplay experience.
-
 ## Prerequisites
 
 To run the Pong Game, ensure you have the following:
